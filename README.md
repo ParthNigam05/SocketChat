@@ -54,58 +54,7 @@ SocketChat/
 └── README.md
 ```
 
----
 
-## ⚙️ Installation & Setup
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/ParthNigam05/SocketChat.git
-cd SocketChat
-```
-
-### Install Dependencies
-
-Frontend:
-
-```bash
-cd frontend
-npm install
-```
-
-Backend:
-
-```bash
-cd backend
-npm install
-```
-
-### Run the Application
-
-Backend:
-
-```bash
-npm run server
-```
-
-Frontend:
-
-```bash
-npm run dev
-```
-
----
-
-## 🔮 Future Enhancements
-
-* Group Chats
-* Message Reactions
-* Audio/Video Calling
-* End-to-End Encryption
-* Dark Mode
-
----
 
 ## 👨‍💻 Author
 
